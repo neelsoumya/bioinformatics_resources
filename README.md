@@ -19,7 +19,13 @@ Resources on bioinformatics
     
     
 4. DeSeq2
+
     https://bitbucket.org/neelsoumya/deseq2_diffexpression_vignette/
+  
+  
+5. Single-cell sequencing tutorial
+
+    https://github.com/hemberg-lab/scRNA.seq.course
     
     
 
