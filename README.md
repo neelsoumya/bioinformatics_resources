@@ -27,5 +27,7 @@ Resources on bioinformatics
 
     https://github.com/hemberg-lab/scRNA.seq.course
     
+    https://www.youtube.com/watch?v=thHgPqQpkE4
+    
     
 
