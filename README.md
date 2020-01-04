@@ -30,4 +30,7 @@ Resources on bioinformatics
     https://www.youtube.com/watch?v=thHgPqQpkE4
     
     
+6. Scater for analysis of single-cell sequencing data
 
+    https://bioconductor.org/packages/release/bioc/vignettes/scater/inst/doc/overview.html
+    
