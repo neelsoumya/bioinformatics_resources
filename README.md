@@ -34,3 +34,9 @@ Resources on bioinformatics
 
     https://bioconductor.org/packages/release/bioc/vignettes/scater/inst/doc/overview.html
     
+
+7. SC3 for single-cell clustering
+
+    https://github.com/hemberg-lab/SC3
+    
+    
