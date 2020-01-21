@@ -39,4 +39,10 @@ Resources on bioinformatics
 
     https://github.com/hemberg-lab/SC3
     
+8. My (Soumya Banerjee) code and bioinformatics resources
+
+    https://sites.google.com/site/neelsoumya/software
+    
+    https://sites.google.com/site/neelsoumya/research-resources/bioinformatics
+    
     
