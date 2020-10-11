@@ -1,5 +1,6 @@
 # bioinformatics_resources
-Resources on bioinformatics
+
+Resources for learning bioinformatics
 
 1. Resources on bioinformatics
 
