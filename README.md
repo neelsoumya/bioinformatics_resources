@@ -39,8 +39,15 @@ Resources for learning bioinformatics
 7. SC3 for single-cell clustering
 
     https://github.com/hemberg-lab/SC3
+ 
+8. Publicly available genomic data (bulk and single cell)
+
+    https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE12251
     
-8. My (Soumya Banerjee) code and bioinformatics resources
+    https://singlecell.broadinstitute.org/single_cell
+    
+ 
+9. My (Soumya Banerjee) code and bioinformatics resources
 
     https://sites.google.com/site/neelsoumya/software
     
