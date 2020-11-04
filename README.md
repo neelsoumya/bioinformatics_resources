@@ -46,8 +46,13 @@ Resources for learning bioinformatics
     
     https://singlecell.broadinstitute.org/single_cell
     
+
+9. GWAS and eQTL data
+
+    http://htmlpreview.github.io/?https://github.com/kauralasoo/eQTL-Catalogue-resources/blob/master/scripts/tabix_use_case.html
+
  
-9. My (Soumya Banerjee) code and bioinformatics resources
+10. My (Soumya Banerjee) code and bioinformatics resources
 
     https://sites.google.com/site/neelsoumya/software
     
